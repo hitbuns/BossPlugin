@@ -1,0 +1,8 @@
+name: BossPlugin
+main: com.BossPlugin.Main
+version: 1.0
+api-version: 1.18
+
+commands:
+  boss:
+    usage: /boss
